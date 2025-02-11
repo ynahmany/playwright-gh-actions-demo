@@ -6,6 +6,8 @@ This repository showcases running [Playwright](https://playwright.dev/) tests on
   <img width="830" src="https://static.currents.dev/currents-playwright-banner-gh.png" />
 </p>
 
+
+
 ## Documentation
 
 The repo contains a few Playwright tests with one test that always fails (intentionally). The example configuration files use [Matrix Execution Strategy](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idstrategymatrix) to run 3 containers for parallelization.
